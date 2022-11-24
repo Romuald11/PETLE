@@ -24,6 +24,7 @@ public class Kalkulator2 {
                 System.out.println(cyfra1/cyfra2);
                 break;
 
+                //
         }
     }
 }
